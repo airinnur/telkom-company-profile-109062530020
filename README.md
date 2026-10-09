@@ -1,0 +1,1 @@
+Perubahan ini dibuat dari simulasi Laptop B.go
