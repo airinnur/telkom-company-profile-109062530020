@@ -8,7 +8,7 @@ require 'includes/header.php';
  <h1>Tentang proyek simulasi Telkom University</h1>
  <p class="lead">Halaman ini digunakan untuk mempraktikkan struktur halaman PHP yang memakai header dan footer
 bersama.</p>
- <h2>Visi pembelajaran</h2>
+ <h2>Visi pembelajaran Sistem Informasi</h2>
  <p>Mahasiswa memahami hubungan antarmuka web, logika PHP, basis data, dan version control melalui satu proyek
 terpadu.</p>
  <h2>Tujuan proyek</h2>
